@@ -18,5 +18,5 @@ Result:
 
 ![Imgur](http://i.imgur.com/f99ibym.png)
 
-My post: [Ruby 透過 TreeType 產生點陣文字](http://bearsu.logdown.com/posts/1847231-ruby-by-using-treetype-to-draw-text-to-a-ascii-art)
+My post: [Ruby 透過 FreeType 產生點陣文字](http://bearsu.logdown.com/posts/1847231-ruby-by-using-treetype-to-draw-text-to-a-ascii-art)
 
